@@ -3,3 +3,4 @@ this is test and finish 50% function
 on pull file add
 this is second lines
 add on 2020.11.22
+modify code for pull folder
